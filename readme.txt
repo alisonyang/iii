@@ -1,1 +1,1 @@
-Hello word
+Neural Art project
